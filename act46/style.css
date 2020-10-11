@@ -1,0 +1,35 @@
+.container{
+  text-align: center;
+}
+
+img{
+  margin-top: 8%;
+  
+}
+
+input{
+ width: 500px;
+ height: 25px;
+padding: 8px;
+border 13px  grey;
+border-radius: 325px;
+}
+
+.botton1{
+  height: 40px;
+  width: auto;
+  color: #646464;
+  background: #F2F2F2;
+  border: none;
+  cursor: pointer;
+  margin: 4px;
+}
+.botton2{
+  height: 40px;
+  width: auto;
+  color: #646464;
+  background: #F2F2F2;
+  border: none;
+  cursor: pointer;
+  margin: 4px;
+}
