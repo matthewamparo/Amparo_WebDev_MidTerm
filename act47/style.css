@@ -1,0 +1,71 @@
+{
+  box-sizing: border-box;
+}
+body{
+  background: url("https://ca-times.brightspotcdn.com/dims4/default/973e635/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fc3%2Ffc81186d4dfea99c00a1109da6fd%2Feb7l0tixyaarqbl.jfif");
+    margin-right: 300px;
+  margin-left: 300px;
+}
+h1{
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  font-family: Arial;
+}
+h2{
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  font-family: Sans-serif;
+  
+}
+h3{
+ font-family: Arial;
+}
+
+
+.container{
+  background: red;
+  border-radius: 10px;
+  max-width: 900px;
+   margin: auto;
+}
+#banner{
+  height: 900px;
+  max-width: 900px;
+  background: url("https://ca-times.brightspotcdn.com/dims4/default/973e635/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fc3%2Ffc81186d4dfea99c00a1109da6fd%2Feb7l0tixyaarqbl.jfif");
+  background-position: center; 
+  background-size: cover;
+  border-style: solid;
+  border-size: 3px;
+  border-color: Black;
+  border-radius: 3px;
+  margin: 10px 10px;
+  font-family: Arial;
+  
+}
+#NBA{
+  padding: 10px 10px; 
+  border-style: solid;
+  border: 5px solid white;
+  margin-bottom: 10px;
+   margin: 10px 10px;
+}
+#AS{
+  padding: 5px 10px; 
+  border: 10px Black;
+  border-radius: 3px;
+  margin: 10px 10px;
+}
+a{
+  color: black;
+  text-decoration: underline;
+   margin: 10px 10px;
+}
+ul{
+  display: inline-block;
+}
+.quote{
+  font-size: 30px;
+  font-family: Arial
+}
